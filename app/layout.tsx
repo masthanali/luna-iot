@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Luna - AI Assistant",
-  description: "Created by Yahya",
+  description: "A Smart AI-Assistant",
 };
 
 export default function RootLayout({

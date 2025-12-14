@@ -7,10 +7,7 @@ const Dashboard = () => {
       <StatusCard/>
       <StatusCard/>
       <StatusCard/>
-<div className="flex flex-wrap flex-col gap-3 w-full">
-  <FileUploadCard />
-  <FileUploadCard />
-</div>      
+      <FileUploadCard/>    
     </div>
   );
 };
